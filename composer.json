@@ -32,7 +32,7 @@
 		"ext-ldap": "*"
 	},
 	"autoload": {
-		"psr-0": {
+		"psr-4": {
 			"adLDAP\\": "lib/adLDAP/"
 		}
 	}
